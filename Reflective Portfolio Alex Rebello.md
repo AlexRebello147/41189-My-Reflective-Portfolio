@@ -1,4 +1,4 @@
-# Github Reflective Porrfolio
+# Github Reflective Portfolio
 ## Week 2 Reflection 
 
 **What have I learnt this week?** 

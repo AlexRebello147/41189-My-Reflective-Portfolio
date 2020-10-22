@@ -41,7 +41,7 @@ allows myself to understand models better by seeing what it is used for.
 different models that have been created. 
 
 
-## Week 3 Reflective Portfolio
+## Week 3 Reflection
 
 **What have I learnt this week?** 
 This week I have learnt about different models that have been used for human purposes. These models that have been learnt include how humans behave, how they make decisions, how people reveal information that is hidden, how people add value and power within groups as well as how different groups solve problems. 

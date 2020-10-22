@@ -1,4 +1,4 @@
-# Github Reflective Portfolio
+# Github Reflective Portfolio Alex Rebello
 ## Week 2 Reflection 
 
 **What have I learnt this week?** 

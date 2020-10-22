@@ -1,7 +1,7 @@
 # Github Reflective Porrfolio
 ## Week 2 Reflection 
 
-*What have I learnt this week?* 
+**What have I learnt this week?** 
 In Week 2 of Introduction to Human Centered Complex systems, I have learnt what a model is, what makes a good model and the different types of models. 
 
 **What do I 'now know' that I did not before?**
